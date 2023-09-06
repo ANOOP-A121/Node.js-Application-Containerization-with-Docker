@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "js-app",
+  "description": "This demo app shows a simple user profile app set up using  - index.html with pure js and css styles - nodejs backend with express module - mongodb for data storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/twn-devops-bootcamp/latest/07-docker/js-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/twn-devops-bootcamp/latest/07-docker/js-app/issues"
+  },
+  "homepage": "https://gitlab.com/twn-devops-bootcamp/latest/07-docker/js-app#readme"
+}
